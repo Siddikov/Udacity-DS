@@ -1,1 +1,6 @@
 # Udacity-DS
+Solutions are also found in here:
+https://github.com/udacity/DSND_Term2/tree/master/lessons/CRISP_DM
+Data sources: 
+* https://github.com/udacity/DSND_Term2/blob/master/lessons/CRISP_DM/survey_results_public.csv
+* https://github.com/udacity/DSND_Term2/blob/master/lessons/CRISP_DM/survey_results_schema.csv
